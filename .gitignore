@@ -1,0 +1,6 @@
+*.o
+*.exe
+.settings
+.cproject
+.project
+.idea
